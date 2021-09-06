@@ -8,8 +8,6 @@
 #include "WProgram.h"
 #endif
 
-#include "Wire.h"
-
 #define PRODUCT_ID_I2C_BUTTON 0x01
 #define DEFAULT_I2C_BUTTON_ADDRESS 0x31
 
